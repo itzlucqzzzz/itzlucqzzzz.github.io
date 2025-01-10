@@ -1,14 +1,14 @@
 # Hoofdpagina
-### Algemene Plaatselijke Verordening ZuiderVeen
+### Algemene Plaatselijke Verordening Leiden
 </br>
 
 **Algemene definities:**<br>
-**Stad:**		    ZuiderVeen<br>
+**Stad:**		    Leiden<br>
 **Staff Team:**		Staff<br>
 **Hogerop:**		  Hoofd-staff +<br>
 </br>
 
-Alle regels zijn van toepassing binnen ZuiderVeen. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
+Alle regels zijn van toepassing binnen Leiden. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
 </br>
 
 **Staff-zaken:**<br>
