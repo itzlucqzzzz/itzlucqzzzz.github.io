@@ -1,12 +1,12 @@
 # Project information
 
 site_name: Regelgeving
-site_author: 'ZuiderVeen'
-site_url: 'https://zuiderveenrp.github.io/apv'
+site_author: 'Leiden Roleplay'
+site_url: 'https://itzlucqzzzz.github.io/'
 use_directory_urls: false
 
 # Copyright
-copyright: Copyright &copy; 2023 ZuiderVeen
+copyright: Copyright &copy; 2025. Leiden Roleplay
 
 # Configuration
 theme:
